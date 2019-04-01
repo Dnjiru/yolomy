@@ -1,5 +1,7 @@
 .jumbotron {
   background-image:  url(../images/hero.jpg);
+  height: 300px;
+  
 }
 .navbar {
   background-color: transparent;
