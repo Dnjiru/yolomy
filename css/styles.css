@@ -10,3 +10,8 @@
   /*z-index: 100; */
   /*transition: background-color 1s ease 0s; */
 }
+
+.hero-heading {
+  color: aliceblue;
+  text-align: center;
+}
