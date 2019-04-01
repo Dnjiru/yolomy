@@ -24,5 +24,9 @@
 @import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css");
 
 .selector{
-  background-color:#C6BFA5 ;
+  padding: 20px;
+  background-color:rgb(136, 109, 10);
+}
+.select{
+  margin-left: 30px;
 }
