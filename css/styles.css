@@ -30,3 +30,30 @@
 .select{
   margin-left: 30px;
 }
+.products{
+
+}
+.about{
+  color:white;
+  text-align: center;
+  padding: 20px;
+  background-image:url(../images/about.jpg);
+}
+.promo {
+  background-color: #535154;
+  color: aliceblue;
+  padding: 20px;
+}
+.footer{
+  background-color: #414141;
+  color: white;
+}
+.social_imgs{
+  height: 50px;
+  width: 50px;
+}
+.copyright {
+  background-color: #414141;
+  color: white;
+  text-align: center;
+}
