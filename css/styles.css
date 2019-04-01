@@ -1,10 +1,10 @@
 .jumbotron {
   background-image:  url(../images/hero.jpg);
 }
-.navbar.transparent.navbar-inverse .navbar-inner {
-  border-width: 0px;
-  -webkit-box-shadow: 0px 0px;
-  box-shadow: 0px 0px;
-  background-color: rgba(0,0,0,0.0);
-  
+.navbar {
+  background-color: transparent;
+  border: none;
+  color: white;
+  /*z-index: 100; */
+  /*transition: background-color 1s ease 0s; */
 }
